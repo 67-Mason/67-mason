@@ -1,0 +1,33 @@
+.layout {
+  width: 100%;
+
+  display: flex;
+  gap: 16px;
+
+  justify-content: center;
+}
+
+h3 {
+  color: gray;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h3 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+  color: greenyellow;
+}
+
+body {background-color: lightblue;}
+
+h2 {
+  color: greenyellow;
